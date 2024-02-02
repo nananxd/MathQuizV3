@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8b998c4de4d50d4ca6925b322eadacd, type: 3}
+  m_Name: UIMapData 2
+  m_EditorClassIdentifier: 
+  topic: 1
+  mapPrefab: {fileID: 0}
+  mapSprite: {fileID: -660548615356150357, guid: aaa5b7d46d5730048ae5a4fb5449f9d5, type: 3}
+  enemySprie: {fileID: 21300000, guid: 3ebb516195cd57f4ba598b2b6a557aa7, type: 3}
+  mapName: Luneta
+  enemyCount: 10

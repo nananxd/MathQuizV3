@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a660322e78bdc5340a21517a16fcffe0, type: 3}
+  m_Name: HintData 1
+  m_EditorClassIdentifier: 
+  topic: 0
+  hints:
+  - explanation: The sum of two cubes has 2 factors, one binomial and the other is
+      trinomial. Binomial factor is the cube root of the term and the trinomial,
+      factor the sum of the square of the binomial factor.
+    example: 
+    sprite: {fileID: 0}
+  - explanation: Square the first and last terms of the binomial to create the first
+      and last terms of the trinomial
+    example: 
+    sprite: {fileID: 0}
+  - explanation: Multiply the terms of the binomial to create the middle term of
+      the trinomial
+    example: 
+    sprite: {fileID: 0}
+  - explanation: Signs are opposite
+    example: 
+    sprite: {fileID: 0}
+  - explanation: The difference of two cubes has 2 factors, one binomial and the
+      other is trinomial. Binomial factor is the cube root of the term and the trinomial
+      factor is sum of the square of the binomial factor.
+    example: 
+    sprite: {fileID: 0}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dd07e1e22db14548a6efced163a72ad, type: 3}
+  m_Name: Lesson2Dif3
+  m_EditorClassIdentifier: 
+  topic: 2
+  difficulty: 2
+  question: 
+  correctAnswer: "4y\xB2-9y-9 =( 4y+3)( y-3)"
+  incompleteAnswers:
+  - "4y\xB2-9y-9"
+  - =
+  - 
+  missingAnswer:
+  - ( 4y+3)( y-3)
+  questionsStepsToSolve:
+  - explanation: (8y+3)(2y+6)
+  - explanation: (12y+9)(y-6)
+  - explanation: "(4y\xB2+6)(y+9)"

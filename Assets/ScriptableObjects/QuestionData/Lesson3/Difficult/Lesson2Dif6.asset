@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dd07e1e22db14548a6efced163a72ad, type: 3}
+  m_Name: Lesson2Dif6
+  m_EditorClassIdentifier: 
+  topic: 2
+  difficulty: 2
+  question: 
+  correctAnswer: "6x\xB2+5xy-21y\xB2=(2x-3y)( 3x+7y)          )"
+  incompleteAnswers:
+  - "6x\xB2+5xy-21y\xB2"
+  - =
+  - 
+  missingAnswer:
+  - '(2x-3y)( 3x+7y)  '
+  questionsStepsToSolve:
+  - explanation: (4x+9y)(9x+14y)
+  - explanation: (12x-6y)(6x+21y)
+  - explanation: "(2x\xB2-3y\xB2)(12x+7y\xB2)"

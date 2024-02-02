@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dd07e1e22db14548a6efced163a72ad, type: 3}
+  m_Name: Lesson2EC3
+  m_EditorClassIdentifier: 
+  topic: 1
+  difficulty: 0
+  question: 
+  correctAnswer: "5a\xB2-20=5(a+2)(a-2 )"
+  incompleteAnswers:
+  - "5a\xB2-20"
+  - =5
+  - 
+  - (a-2)
+  missingAnswer:
+  - (a+2)
+  questionsStepsToSolve:
+  - explanation: "(a\xB2+3)"
+  - explanation: (a-4)
+  - explanation: (a+6)

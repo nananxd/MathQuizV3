@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dd07e1e22db14548a6efced163a72ad, type: 3}
+  m_Name: QuestionFinal9
+  m_EditorClassIdentifier: 
+  topic: 0
+  difficulty: 2
+  question: 
+  correctAnswer: "64x\xB3-8=(4x-8)(16x\xB2+32x+64)"
+  incompleteAnswers:
+  - "64x\xB3-8"
+  - =
+  - 
+  missingAnswer:
+  - "(4x-8)(16x\xB2+32x+64)"
+  questionsStepsToSolve:
+  - explanation: "(2x+4)(12x\xB2-16+4)"
+  - explanation: (4x+8)(12x-8x+32)
+  - explanation: "(7x-9)(32x\xB3+12x+44)"

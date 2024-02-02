@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 211932710167fd64382778cc9ff9ef58, type: 3}
+  m_Name: Lesson2 Tutorial
+  m_EditorClassIdentifier: 
+  topic: 1
+  tutorialData:
+  - explanation: ' Look first for a common factor.'
+    example: 
+    sprite: {fileID: 0}
+  - explanation: 'Look for the number of terms.
+
+'
+    example: 'Two terms : determine whether you have a difference of terms
+
+      Three
+      terms : Determine whether the trinomial is a square of binomials. If not test
+      the factors of the terms.
+
+      Four terms : try factoring by grouping
+
+'
+    sprite: {fileID: 0}
+  - explanation: 3. Factor completely.
+    example: "Example :\r\n\r\nx\xB3+y\xB3=(x+y)(x\xB2-xy+y\xB2)"
+    sprite: {fileID: 0}
+  - explanation: "Example: Factor the following:\r\n1.  Sum and difference of two
+      terms.\r"
+    example: "4x\xB2 \u2013 4 =  4 (x\xB2 -1)\r\n              = 4  (x + 1)  (x \u2013
+      1)\r\n"
+    sprite: {fileID: 0}
+  - explanation: 2.   No common factor
+    example: "X\x9D\u2074 \u2013 81  =   ( x\xB2 + 9 ) ( x\xB2 \u2013 9)\r\n               
+      =    ( x\xB2 + 9 ) ( x  +  3) (x \u2013 3)\r\n"
+    sprite: {fileID: 0}
+  - explanation: Quadratic Trinomia
+    example: "2X\xB2  + 20x + 50    =  2 ( x\xB2 + 10x + 25) \r\n               
+      =   2 ( x  +  5) (x + 5)"
+    sprite: {fileID: 0}

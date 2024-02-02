@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dd07e1e22db14548a6efced163a72ad, type: 3}
+  m_Name: QuestionFinal7
+  m_EditorClassIdentifier: 
+  topic: 0
+  difficulty: 2
+  question: 
+  correctAnswer: "8y\xB3-64=(2y-4)(4y\xB2+8y+16)"
+  incompleteAnswers:
+  - "8y\xB3-64"
+  - =
+  - 
+  missingAnswer:
+  - "(2y-4)(4y\xB2+8y+16)"
+  questionsStepsToSolve:
+  - explanation: "(2y\xB2+4)(12y+3y+6)"
+  - explanation: (12y-2y)(2y-3y+2)
+  - explanation: "(42y-4)(4y-8y\xB2+2)"

@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70a5a29b6f35e524f8862324a776ce82, type: 3}
+  m_Name: StepsData 2
+  m_EditorClassIdentifier: 
+  topic: 2
+  steps:
+  - explanation: "Given1 : 3x\xB2 + 11x + 8\r\n"
+    example: 
+    sprite: {fileID: 0}
+  - explanation: 'Step 1: Find the ac
+
+'
+    example: "= 3\xB7 8 = 24"
+    sprite: {fileID: 0}
+  - explanation: 'Step 2: Find the factor of ac.
+
+'
+    example: "24 = 1\xB7 24\r\n      = 2\xB7 12\r\n       = 3\xB7 8\r\n        =
+      4\xB7 6\r\n"
+    sprite: {fileID: 0}
+  - explanation: "Given 1: 3x\xB2 + 11x + 8\r\n"
+    example: "Step 3: Choose which pair has the sum of the second term. \r\n\n1 +
+      24 = 25         3 + 8 = 11\r\n 2 + 12 = 14          4 + 6 = 10\n"
+    sprite: {fileID: 0}
+  - explanation: 'Step 4: Use the factors of 24 whose sum is 11x as 3x + 8x.Factor
+      by grouping.
+
+'
+    example: "3x\xB2 + 11x + 8= 3x\xB2 + <color=red>3x + 8x</color> + 8\r\n                         
+      =(3x\xB2 + 3x) + (8x + 8)\r\n                          =3x(x + 1) + 8(8x +
+      1)\r\n         Ans. = (x + 1) (3x + 8)"
+    sprite: {fileID: 0}
+  - explanation: "Given 2: 2x\xB2 - 21x + 10\r\n"
+    example: 
+    sprite: {fileID: 0}
+  - explanation: 'Step 1: Find the ac
+
+'
+    example: "= 2\xB7 10 = 20"
+    sprite: {fileID: 0}
+  - explanation: 'Step 2: Find the factor of ac.
+
+'
+    example: "20 = 5\xB7 4\r\n      = 2\xB7 10\r\n       = -1\xB7 -20\r\n       
+      = -5\xB7 -4\r\n"
+    sprite: {fileID: 0}
+  - explanation: "Given 2: 2x\xB2 - 21x + 10\r\n"
+    example: "Step 3: Choose which pair has the sum of the second term. \r\n  5 +
+      4 = 9               -1 + -20 = -21\r\n 2 + 10 = 12         - 5 + -4 = -9          
+      \r\n"
+    sprite: {fileID: 0}
+  - explanation: 'Step 4: Use the factors of 20 whose sum is -21 to write-1x as -20x.   
+      Factor by grouping.
+
+'
+    example: "2x\xB2 -21x + 10   = 2x\xB2  <color=red>-20x \u2013 x</color>  + 10\r\n                         
+      =(2x\xB2 -20x) - (x - 10)\r\n                          =2x(x - 10) - (x - 10)\r\n        
+      Ans.     = (x - 10) (2x - 1)            \r\n"
+    sprite: {fileID: 0}
+  - explanation: "Given 3: 3x\xB2 - 11x + 4\r\n"
+    example: '
+
+'
+    sprite: {fileID: 0}
+  - explanation: "Step 1: Find the ac\r"
+    example: "= 3\xB7 4 = 12"
+    sprite: {fileID: 0}
+  - explanation: 'Step 2: Find the factor of ac.
+
+'
+    example: "12 = -1\xB7 -12\r\n     = -2\xB7 -6\r\n     = -3\xB7 -4\r\n     = 3
+      . 4                     \r\n"
+    sprite: {fileID: 0}
+  - explanation: "Given 3: 3x\xB2 - 11x + 4\r\n"
+    example: "Step 3: Choose which pair has the sum of the second term. \n   3 +
+      4 =  7                 -1 + -12 = -13\r\n -2 + -6 = -8              -  3+ -4
+      = -7         \r\n"
+    sprite: {fileID: 0}
+  - explanation: "Step 4: Use the factors of 12 whose sum is -11 . \r\n"
+    example: 
+    sprite: {fileID: 0}
+  - explanation: "Because no integer factors of 12 have the sum of -11,\r\n             
+      \r\n"
+    example: 
+    sprite: {fileID: 0}
+  - explanation: " 3x\xB2 - 11x + 4   is <color=red>nonfactorable</color> over the
+      integers.   "
+    example: 
+    sprite: {fileID: 0}
+  - explanation: NO ANSWER
+    example: 
+    sprite: {fileID: 0}

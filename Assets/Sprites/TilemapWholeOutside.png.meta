@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: d302e0f22ecfbe848a5bd3e671a709ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5777483603267747874
+    second: TilemapWholeOutside_0
+  - first:
+      213: -6083784126811554755
+    second: TilemapWholeOutside_1
+  - first:
+      213: -1095440198222475435
+    second: TilemapWholeOutside_2
+  - first:
+      213: 8243662185719324644
+    second: TilemapWholeOutside_3
+  - first:
+      213: 1820626444611934635
+    second: TilemapWholeOutside_4
+  - first:
+      213: -5916589855138225653
+    second: TilemapWholeOutside_5
+  - first:
+      213: -4879832055342603878
+    second: TilemapWholeOutside_6
+  - first:
+      213: 1354451652016019831
+    second: TilemapWholeOutside_7
+  - first:
+      213: -5147862081139989324
+    second: TilemapWholeOutside_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 640
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilemapWholeOutside_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 307, y: 274}
+        - {x: -105, y: 274}
+        - {x: -287, y: 69}
+        - {x: -287, y: -320}
+        - {x: -219, y: -304}
+        - {x: -150, y: 108}
+        - {x: 319, y: 210}
+        - {x: 320, y: 267}
+        - {x: 317, y: 270}
+      - - {x: 307, y: 320}
+        - {x: 307, y: 312}
+        - {x: 309, y: 310}
+        - {x: 310, y: 310}
+        - {x: 315, y: 314}
+        - {x: 317, y: 320}
+      tessellationDetail: 0
+      bones: []
+      spriteID: edff493f54142dfa0800000000000000
+      internalID: -5777483603267747874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWholeOutside_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -300, y: 297}
+        - {x: -320, y: 268}
+        - {x: -320, y: 210}
+        - {x: 320, y: 204}
+        - {x: 320, y: 297}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cbc37e19e029ba0800000000000000
+      internalID: -6083784126811554755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWholeOutside_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -28, y: 272}
+        - {x: -320, y: 289}
+        - {x: -320, y: 200.60242}
+        - {x: -100, y: 219}
+        - {x: 129, y: 122}
+        - {x: 191, y: -73}
+        - {x: 207, y: -318}
+        - {x: 286, y: -320}
+        - {x: 264, y: -43}
+        - {x: 151, y: 207}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f044091f63cc0f0800000000000000
+      internalID: -1095440198222475435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWholeOutside_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -291, y: 320}
+        - {x: -316, y: 42}
+        - {x: -316, y: -179}
+        - {x: -313, y: -200}
+        - {x: -300, y: -320}
+        - {x: -220, y: -320}
+        - {x: -207, y: 320}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efde14c41f576270800000000000000
+      internalID: 8243662185719324644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWholeOutside_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9d6c3fa1a244910800000000000000
+      internalID: 1820626444611934635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWholeOutside_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 287, y: 55}
+        - {x: 281, y: 320}
+        - {x: 179, y: 320}
+        - {x: 172, y: -320}
+        - {x: 250, y: -320}
+        - {x: 282, y: -250}
+        - {x: 302, y: -207}
+        - {x: 308, y: -121}
+      - - {x: 232, y: -310}
+        - {x: 242, y: -311}
+        - {x: 237, y: -309}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b026ecacfdc04eda0800000000000000
+      internalID: -5916589855138225653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWholeOutside_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -148, y: 263}
+        - {x: -265, y: 320}
+        - {x: -265, y: 108}
+        - {x: -157, y: -201}
+        - {x: -50, y: -278}
+        - {x: 176, y: -310}
+        - {x: 320, y: -310}
+        - {x: 320, y: 33}
+        - {x: 50, y: 66}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a916db1a99a574cb0800000000000000
+      internalID: -4879832055342603878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWholeOutside_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -320, y: 63}
+        - {x: -320, y: -310}
+        - {x: 320, y: -310}
+        - {x: 320, y: 63}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7791bdfe99afbc210800000000000000
+      internalID: 1354451652016019831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapWholeOutside_8
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 166, y: 313}
+        - {x: -13, y: 123}
+        - {x: -320, y: 28}
+        - {x: -320, y: -298}
+        - {x: 33, y: -283}
+        - {x: 165, y: -150}
+        - {x: 249, y: 78}
+        - {x: 249, y: 320}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4a2f436be1f88b0800000000000000
+      internalID: -5147862081139989324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6c2fbcdf906440d439ce0f88b3681d95
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

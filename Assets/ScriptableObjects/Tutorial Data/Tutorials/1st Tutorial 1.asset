@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 211932710167fd64382778cc9ff9ef58, type: 3}
+  m_Name: 1st Tutorial 1
+  m_EditorClassIdentifier: 
+  topic: 0
+  tutorialData:
+  - explanation: A. Factoring sum of two cubes
+    example: "x\xB3+y\xB3"
+    sprite: {fileID: 0}
+  - explanation: 1.What is the cube roots of the first and last term?
+    example: x and y
+    sprite: {fileID: 0}
+  - explanation: 2. Write their sum as the first factor
+    example: ( x + y )
+    sprite: {fileID: 0}
+  - explanation: "Use the new binomial to create trinomial\n     1.Square the first
+      and last term of the binomial to create the first and last terms of the trinomial"
+    example: "(x + y)(x\xB2     +y\xB2)"
+    sprite: {fileID: 0}
+  - explanation: 2. Multiply the terms of the binomial to create the middle term
+      of the trinomial.
+    example: "(x + y)(x\xB2 - xy   +y\xB2)"
+    sprite: {fileID: 0}
+  - explanation: 3. Signs are opposite
+    example: "x\xB3 + y\xB3 = (x + y) (x\xB2 - xy + y\xB2)"
+    sprite: {fileID: 21300000, guid: 9dd9fc64fe2721f4998c7ddaae1e20a2, type: 3}
+  - explanation: 'Example : Factor the following'
+    example: "x\xB3+8"
+    sprite: {fileID: 2114326735992490174, guid: 0bf340d67da637444bdb6eaca75ba48e, type: 3}
+  - explanation: B. Factoring a Difference of Two Cubes
+    example: "x\xB3-y\xB2 "
+    sprite: {fileID: 0}
+  - explanation: 1. What is the cube roots of the first and last term
+    example: x and y
+    sprite: {fileID: 0}
+  - explanation: 2. Write their difference as the first factor
+    example: (x - y)
+    sprite: {fileID: 0}
+  - explanation: "Use the new binomial to create the trinomial\n       1.Square the
+      first and last term of the binomial to create the first and last terms of the
+      trinomial"
+    example: "(x - y)(x\xB2 +     +y\xB2  )"
+    sprite: {fileID: 0}
+  - explanation: 2. Multiply the terms of the binomial to create the middle term
+      of the trinomial.
+    example: "(x - y)(x\xB2 +  xy   +y\xB2  )"
+    sprite: {fileID: 0}
+  - explanation: '3. Signs are opposite  '
+    example: "x\xB3 - y\xB3 = (x - y)(x\xB2 + xy + y\xB2)"
+    sprite: {fileID: 21300000, guid: 85a3e7478231b3a42aff38ff1fc2aeed, type: 3}
+  - explanation: 'Example : Factor the following'
+    example: "8x\xB3 - 27"
+    sprite: {fileID: -3959190047480420654, guid: f5a9910ad932d164abc7c239b2ca8111, type: 3}
+  - explanation: Notice that the sign of the last term in the trinomial is always
+      possitive
+    example: 
+    sprite: {fileID: 0}

@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2153c897a42f61740b760a736dd50376, type: 3}
+  m_Name: ChoicesData
+  m_EditorClassIdentifier: 
+  choices:
+  - name: A
+    choicesValue: A
+  - name: B
+    choicesValue: B
+  - name: C
+    choicesValue: C
+  - name: D
+    choicesValue: D
+  - name: E
+    choicesValue: E
+  - name: F
+    choicesValue: F
+  - name: G
+    choicesValue: G
+  - name: H
+    choicesValue: H
+  - name: I
+    choicesValue: I
+  - name: J
+    choicesValue: J
+  - name: K
+    choicesValue: K
+  - name: L
+    choicesValue: L
+  - name: M
+    choicesValue: M
+  - name: N
+    choicesValue: N
+  - name: O
+    choicesValue: O
+  - name: P
+    choicesValue: P
+  - name: Q
+    choicesValue: Q
+  - name: R
+    choicesValue: R
+  - name: S
+    choicesValue: S
+  - name: T
+    choicesValue: T
+  - name: U
+    choicesValue: U
+  - name: V
+    choicesValue: V
+  - name: W
+    choicesValue: W
+  - name: X
+    choicesValue: X
+  - name: Y
+    choicesValue: Y
+  - name: Z
+    choicesValue: Z
+  - name: a
+    choicesValue: a
+  - name: b
+    choicesValue: b
+  - name: c
+    choicesValue: c
+  - name: d
+    choicesValue: d
+  - name: e
+    choicesValue: e
+  - name: f
+    choicesValue: f
+  - name: g
+    choicesValue: g
+  - name: h
+    choicesValue: h
+  - name: i
+    choicesValue: i
+  - name: j
+    choicesValue: j
+  - name: k
+    choicesValue: k
+  - name: l
+    choicesValue: l
+  - name: m
+    choicesValue: m
+  - name: n
+    choicesValue: n
+  - name: o
+    choicesValue: o
+  - name: p
+    choicesValue: p
+  - name: q
+    choicesValue: q
+  - name: r
+    choicesValue: r
+  - name: s
+    choicesValue: s
+  - name: t
+    choicesValue: t
+  - name: u
+    choicesValue: u
+  - name: v
+    choicesValue: v
+  - name: w
+    choicesValue: w
+  - name: x
+    choicesValue: x
+  - name: y
+    choicesValue: y
+  - name: z
+    choicesValue: z
+  - name: 0
+    choicesValue: 0
+  - name: 1
+    choicesValue: 1
+  - name: 2
+    choicesValue: 2
+  - name: 3
+    choicesValue: 3
+  - name: 4
+    choicesValue: 4
+  - name: 5
+    choicesValue: 5
+  - name: 6
+    choicesValue: 6
+  - name: 7
+    choicesValue: 7
+  - name: 8
+    choicesValue: 8
+  - name: 9
+    choicesValue: 9
+  - name: 0
+    choicesValue: 0
+  - name: +
+    choicesValue: +
+  - name: '-'
+    choicesValue: '-'
+  - name: '*'
+    choicesValue: '*'
+  - name: /
+    choicesValue: /
+  - name: (
+    choicesValue: )
+  - name: "\u221A"
+    choicesValue: "\u221A"

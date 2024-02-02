@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dd07e1e22db14548a6efced163a72ad, type: 3}
+  m_Name: QuestionFinal8
+  m_EditorClassIdentifier: 
+  topic: 0
+  difficulty: 2
+  question: 
+  correctAnswer: "8x\xB3-125=(2x-5)(4x\xB2+10x+25)"
+  incompleteAnswers:
+  - "8x\xB3-125"
+  - =
+  - 
+  missingAnswer:
+  - "(2x-5)(4x\xB2+10x+25)"
+  questionsStepsToSolve:
+  - explanation: "(4x-5)(4x+10+25x\xB2)"
+  - explanation: "(5x\xB2+2)(2x+5+15)"
+  - explanation: (23x+15)(2x+3x+5)
